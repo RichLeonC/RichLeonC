@@ -11,7 +11,7 @@
 
   </a>
 </p>
-<br>
+
 <h2>About me</h2>
 <!--Intro start-->
 
@@ -21,7 +21,7 @@
 I create and contribute to meaningful web development projects. My background includes one year of hands-on experience with full-stack web development on a SaaS platform, as well as academic and personal projects.
 <!--Intro end-->
   </p>
-<br>
+
 
 <h2 >My main tech stack</h2>
 <!--tech stack icons-->
