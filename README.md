@@ -1,12 +1,16 @@
 <h1 align="center">Hi, I'm Richard León 👋 </h1> 
 
-<div style="display: flex; justify-content: space-between; align-items: center; justify-content:center">
+<p align="center">
   <img alt="Location Badge" src="https://img.shields.io/badge/San_Jos%C3%A9%2C_Costa_Rica-8A2BE2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spanish-%23F05F01">
+  <img alt="Static Badge" src="https://img.shields.io/badge/English_B2-%23134AED">
+
+
   <a href="https://www.linkedin.com/in/richard-le%C3%B3n-73237022a/" target="blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
 
   </a>
-</div>
+</p>
 <br>
 <h2>About me</h2>
 <!--Intro start-->
@@ -14,18 +18,21 @@
 <p align="left">
 🎓 Computer Engineer from Instituto Tecnológico de Costa Rica (TEC)
 
-Dedicated to making people's lives easier through technology, I create and contribute to meaningful web development projects. My background includes one year of hands-on experience with full-stack web development on a SaaS platform, as well as academic and personal projects.
+I create and contribute to meaningful web development projects. My background includes one year of hands-on experience with full-stack web development on a SaaS platform, as well as academic and personal projects.
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >My main tech stack</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,html,css,tailwind,express,mysql,dynamodb,git,github,postman&perline=12" />
 </p>
+<br>
+
+<h2 >Tech stack which I have worked on the past</h2>
+
+
 <br>
 <!-------------------------->
 <div id="proyectos">
