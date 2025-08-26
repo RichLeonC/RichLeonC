@@ -25,7 +25,7 @@ I create and contribute to meaningful web development projects. My background in
     <td width="25%" align="center">
       <h3>Scrum Fundamentals Certified (SFC)</h3>
       <a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RichardOsvaldoLeonChinchilla-903478.pdf" title="Go to Source">
-        <img align="center" width="200px" src="https://media.licdn.com/dms/image/v2/C4E12AQFk60dsM5kO-A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1635114070340?e=2147483647&v=beta&t=cdLyE9E4OMP8miwbXdTyE0gdLJnCUZUehyg1T-oJFis" alt="SCRUM" />
+        <img align="center" width="150px" src="https://media.licdn.com/dms/image/v2/C4E12AQFk60dsM5kO-A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1635114070340?e=2147483647&v=beta&t=cdLyE9E4OMP8miwbXdTyE0gdLJnCUZUehyg1T-oJFis" alt="SCRUM" />
       </a>
       <br><br>
       <a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RichardOsvaldoLeonChinchilla-903478.pdf" target="blank">
@@ -35,7 +35,7 @@ I create and contribute to meaningful web development projects. My background in
     <td width="25%" align="center">
       <h3>Career Essentials in GitHub Professional Certificate</h3>
       <a href="https://www.linkedin.com/learning/certificates/c507f9afcf5d41c0e367a7a2f0466f7b6a0962846cafddf01ff7ddbe9177d9ad?trk=share_certificate" title="Go to Source">
-        <img align="center" width="200px" src="https://cdn2.downdetector.com/static/uploads/logo/github.logo.png" alt="GITHUB" />
+        <img align="center" width="150px" src="https://cdn2.downdetector.com/static/uploads/logo/github.logo.png" alt="GITHUB" />
       </a>
       <br><br>
       <a href="https://www.linkedin.com/learning/certificates/c507f9afcf5d41c0e367a7a2f0466f7b6a0962846cafddf01ff7ddbe9177d9ad?trk=share_certificate" target="blank">
@@ -48,6 +48,9 @@ I create and contribute to meaningful web development projects. My background in
 
 </table>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
