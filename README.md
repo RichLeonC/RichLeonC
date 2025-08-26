@@ -63,9 +63,6 @@ I create and contribute to meaningful web development projects. My background in
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <h2>My main tech stack</h2>
 <!--tech stack icons-->
