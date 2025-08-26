@@ -71,7 +71,7 @@ I create and contribute to meaningful web development projects. My background in
 </p>
 
 
-<h2 >Tech stack which I have worked before</h2>
+<h2 >Tech stack I have worked with before</h2>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,angular,cpp,python,php,bootstrap,mongodb&perline=12" />
 </p>
