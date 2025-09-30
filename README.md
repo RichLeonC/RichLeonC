@@ -43,7 +43,7 @@ I create and contribute to meaningful web development projects. My background in
       </a>
     </td>
       <td width="25%" align="center">
-      <h3>English for Adults Certificate </h3>
+      <h3>English for Adults Certificate (B2 TOEIC) </h3>
       <a href="https://www.dropbox.com/scl/fi/ycxj6lt5v6flxcxw0rcyq/Richard-Osvaldo-Le-n-Chinchilla-titulo-firmado.pdf?rlkey=u90w4t7ghokx6l92w1m6ztuil&st=u0bhddqu&dl=0" title="Go to Source">
         <img align="center" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvL0ngcNj-ubyuEePOx-e5iU__WaPWB6HUfw&s" alt="CCCN" />
       </a>
